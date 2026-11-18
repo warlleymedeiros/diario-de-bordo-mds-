@@ -4,6 +4,7 @@
 - [Avaliação na disciplina](docs/avaliacao.md)
 - [GitHub Pages no projeto da disciplina](docs/github-pages.md)
 - Minhas entradas
+  - [Pré-release 2 (18/11/2026)](blog/2026-11-18-pre-release-2.md)
   - [Entre releases (27/10/2026)](blog/2026-10-27-entre-releases.md)
   - [Formação de equipe (16/09/2026)](blog/2026-09-16-formacao-equipe.md)
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
